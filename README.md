@@ -2,7 +2,7 @@
 
 ## The video
 
-I wasn’t able to find data specifically for a warehouse setting with forklifts and people to track so I imagine a car park setting would be a good substitute for now. For simplicity, I decided to track one object alone.
+I wasn’t able to find data specifically for a warehouse setting with forklifts and people to track so I imagine a car park setting would be a good substitute for now. I created a layout from the video to map the path of the object. For simplicity, I decided to track one object alone.
 
 ## Stages
 
