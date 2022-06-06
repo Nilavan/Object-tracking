@@ -20,6 +20,7 @@ Can be done using any object detection algorithm and we can get the centroid of 
 Using optical flow. Here, given two subsequent frames, we have to estimate the apparent motion field between them assuming consistent brightness, and similar motion between neighbouring pixels.
 
 **Sparse optical flow** - Computing optical flow for a sparse feature set.
+
 **Dense optical flow** - Computing optical flow for all the points in the frame.
 
 ### The math:
@@ -36,7 +37,7 @@ Taylor series approximation on RHS gives us an equation with two unknown variabl
 
 ## Mapping
 
-Mapping is basically to project the real space onto a 2D plane. Sort of like a bird’s eye view. I believe this will be useful for your system, with a layout of the warehouse. 
+Mapping is basically to project the real space onto a 2D plane. Sort of like a bird’s eye view. I believe this will be useful for the system, with a layout of the warehouse. 
 
 ## Result
 
